@@ -3,7 +3,7 @@
 
 This project uses LSTM (Long Short-Term Memory) deep learning model to predict future closing prices of the NIFTY index.
 
----
+---     
 
 ## 📊 Objective
 
@@ -51,3 +51,4 @@ Forecast next 30 days of NIFTY closing prices using historical data (2010–2023
 ```bash
 pip install -r requirements.txt
 python lstm_model.py  # if you convert code into script
+ 
